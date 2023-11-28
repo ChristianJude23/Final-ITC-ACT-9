@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: #776B5D;
+	align-items: center;
+ 	align-content: center; 
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+	color: #F3EEEA;
+}
+
+.Main-Container {
+	align-content: center;
+	text-align: center;
+	width: 80%;
+	margin: auto;
+}
+
+.Left-Frame {
+	background-color: #EBE3D5;
+	height: 900px;
+	width: 20%;
+}
+
+.Body-Frame {
+	background-color: #EBE3D5;
+	height: 900px;
+	width: 50%;
+}
+
+.Frame-BG {
+	background-color: #EBE3D5;
+}
+
+.Frame-Head {
+	color: black;
+}
+
+.top-row-bg {
+	background-color: #D6C7AE;
+	text-align: center;
+	font-size: 25px;
+}
+
+.table-row {
+	background-color: #F3F0CA;
+	text-align: center;
+	font-size: 20px;
+}
